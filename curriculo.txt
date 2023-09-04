@@ -1,0 +1,71 @@
+<!doctype>
+<html lang="pt-br">
+
+<head>
+     <title>Curriculo</title>
+     <meta charset="utf-8">
+     <meta name="author" content="Fernanda Sais">
+     <meta name="description" content="descrição bacanuda">
+     <meta name="keywords" content="html5,tecnologia">
+
+
+
+
+
+     </head>
+
+<body bgcolor="#FFFF00">
+
+     <img src="nanda-sais.jpg" width="100px">
+
+<h1>Fernanda Sais</h1>
+
+<p>Brasileira,solteira 33 anos</p>
+
+<h2>Objetivo</h2>
+
+ <p>Front-end desenvolver, webdesinger</p>
+
+<h2>Experiencia profissional</h2>
+
+<h3> <a href=http://uol.com">UOL</a> 12/2014 até 12/2017</h3>
+<h4>Analista programação - 3 anos</h4>
+
+<p>Desenvolvendo aplicações web com html, Css, Javascript</p>
+
+<h3> <a href=http://terra.com">Terra</a> 01/2018 até 12/2022</h3>
+<h4>Auxiliar Administrativo</h4>
+
+<p>Contas a Pagar  e receber,baixa de pagamento,atendimento ao público</p>
+
+<h2>Formação</h2>
+
+<h3>Graduação Tecnologia da informação</h3>
+<p>01/2015 até 12/2018</p>
+
+<h3>Pós graduação computacionais em front end</h3>
+<p>01/2019 até 12/2019</p>
+<p>Faculdade PUCRS</P>
+
+<h2> Cursos Especializações</h2>
+
+<p>Participação congresso elasnatech 08/2015</P>
+<p> Certificado CSS,JAVASCRIPT CSSBRASIL</p>
+
+<H3>CSS3</H3>
+<P>SerfrontEnd 50h 2016</p>
+
+<h3>Idiomas</h3>
+<p>Alemão,Espanhol e Inglês Fluente</p>
+<p>Escola Gradiff Idiomas</p>
+
+
+
+
+</body>
+ 
+</html>
+
+
+
+
